@@ -2,4 +2,3 @@ Perro
 Gato
 Loro
 Tortuga
-Oso
