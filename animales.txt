@@ -2,3 +2,6 @@ Perro
 Gato
 Loro
 Foca
+Morza
+Ardilla
+Gusano
