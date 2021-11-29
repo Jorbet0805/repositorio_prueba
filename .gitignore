@@ -3,6 +3,7 @@ missecretos.txt
 
 #Expresiones
 *.log
+!secretoslibres.log
 
 #Directorios
 secretos/
